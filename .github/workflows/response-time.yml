@@ -67,7 +67,7 @@ jobs:
       
           else
             echo -e "WARP mode: ${{ inputs.mode }}.
-You can choose client or wireguard."
+            You can choose client or wireguard."
             exit 1
           fi
       
