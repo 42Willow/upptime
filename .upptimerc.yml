@@ -7,6 +7,8 @@ sites:
     url: https://www.google.com
   - name: DuckDuckGo
     url: https://duckduckgo.com
+  - name: wttr.in ⛅
+    url: https://wttr.in
 
 status-website:
   baseUrl: /upptime
