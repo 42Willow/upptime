@@ -40,19 +40,19 @@
     "url": "https://wttr.in",
     "icon": "https://icons.duckduckgo.com/ip3/wttr.in.ico",
     "slug": "wttr-in",
-    "status": "up",
-    "uptime": "97.74%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "97.74%",
-    "uptimeMonth": "97.74%",
-    "uptimeYear": "97.74%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1623,
     "timeDay": 1623,
     "timeWeek": 1623,
     "timeMonth": 1623,
     "timeYear": 1623,
     "dailyMinutesDown": {
-      "2024-01-26": 15
+      "2024-01-26": 0
     }
   }
 ]
